@@ -1,0 +1,6 @@
+{
+  "name": "ReceiptLens",
+  "description": "Smart AI receipt scanner, line-item extractor, tax audit compliance, and expense analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
